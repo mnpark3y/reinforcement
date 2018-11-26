@@ -1,5 +1,3 @@
-## GT Account: mwhite315
-## CS 7641: Machine Learning
 ## Markov Decision Processes
 
 # R Library Dependencies
